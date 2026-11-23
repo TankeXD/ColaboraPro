@@ -1,0 +1,8 @@
+{
+  "name": "colaborapro",
+  "version": "0.1.0",
+  "description": "Prototipo API de gestion colaborativa de proyectos para cierre EPE",
+  "type": "module",
+  "scripts": { "start": "node src/server.js", "test": "node --test" },
+  "engines": { "node": ">=20" }
+}
